@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "app/api/hello/**/*": {
+      "memory": 400
+    }
+  }
+}
